@@ -4,7 +4,7 @@ An interactive E-Commerce Sales Dashboard created using Power BI to analyze sale
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Sales Dashboard](E_COMMERCE%@)PICTURE.png)
+![E-Commerce Sales Dashboard](E_COMMERCE%20PICTURE.png)
 
 ## 🔎 Project Overview
 
